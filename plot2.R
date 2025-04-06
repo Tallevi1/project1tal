@@ -1,5 +1,5 @@
 #set directory
-setwd("C:/Users/Ariella's laptop/OneDrive - weizmann.ac.il/MSc weizmann/Coursera exploratory data analysis/final assignment")
+setwd("C:/Users/Tal's laptop/OneDrive - weizmann.ac.il/MSc weizmann/Coursera exploratory data analysis/final assignment")
 NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
 
